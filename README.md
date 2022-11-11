@@ -1,1 +1,1 @@
-# AutomationQATrainee
+# Branch with UI tests of the Steam website in Python

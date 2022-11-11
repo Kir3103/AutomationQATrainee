@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79516423-19aa-46a3-a50b-ab4275e374cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Browser/BrowserFactory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Browser/WebDriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Browser/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/BaseElement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/Button.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/DropDownList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/ProgressBar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/Slider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/TextField.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Elements/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Forms/RegistrationForm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Forms/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Models/DateModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Models/EmployeeModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Models/TextCompareModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/AlertPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/AlertsFrameWindowsPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/BasePage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/DatePickerPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/ElementsPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/FramesPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/HandlesPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/HomePage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/LinksPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/NestedFramesPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/ProgressBarPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/SamplePage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/SliderPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/TablesElementPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/WidgetsPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pattern/MetaClassSingleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Pattern/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_alerts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_date_picker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_frames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_handles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_slider_progress_bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Tests/test_tables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/AlertUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/ConfigScriptJS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/ConfigTestData.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/ConfigUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/DateUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/HandlesUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/LeapYearUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/LogerUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/RandomNumberUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/StringUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/json_data/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/json_data/js_script.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/json_data/test_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework_demoqa/Utils/json_data/users_test_data.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DgZY0NQ5lF28Bn9D2IS668c8xJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Python\education\k.strunets\.pytest_cache" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_alerts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/test_alerts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_alerts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79516423-19aa-46a3-a50b-ab4275e374cb" name="Changes" comment="" />
+      <created>1661122744066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661122744066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="task3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

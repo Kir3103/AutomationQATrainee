@@ -1,0 +1,5 @@
+{
+    "arguments": {
+      "argument_for_click": "arguments[0].click();"
+    }
+}

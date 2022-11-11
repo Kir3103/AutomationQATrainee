@@ -1,0 +1,5 @@
+{
+    "url": "https://store.steampowered.com/",
+    "default_timeout": 10,
+    "browser_factory": ["chrome", "firefox"]
+}

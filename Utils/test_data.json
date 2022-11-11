@@ -1,0 +1,13 @@
+{
+    "dota_search_param": {
+        "game_name": "Dota 2",
+        "hero_name": "Lifestealer",
+        "rarity": "Immortal",
+        "search": "golden"
+    },
+    "checkbox_param": {
+        "Narrow by OS": "SteamOS + Linux",
+        "Narrow by number of players": "LAN Co-op",
+        "Narrow by tag": "Action"
+    }
+}
