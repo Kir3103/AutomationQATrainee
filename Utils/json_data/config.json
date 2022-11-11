@@ -1,0 +1,5 @@
+{
+    "url": "https://demoqa.com/",
+    "default_timeout": 20,
+    "browser_factory": ["chrome", "firefox"]
+}

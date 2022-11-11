@@ -1,0 +1,18 @@
+{
+  "user 1": {
+    "First Name": "Jon",
+    "Last Name": "Snow",
+    "Email": "knownothing@gmail.com",
+    "Age": "30",
+    "Salary": "3000",
+    "Department": "alpha"
+  },
+  "user 2": {
+    "First Name": "Buttercup",
+    "Last Name": "Cumbersnatch",
+    "Email": "BudapestCandygram@mail.ru",
+    "Age": "41",
+    "Salary": "2000",
+    "Department": "beta"
+  }
+}

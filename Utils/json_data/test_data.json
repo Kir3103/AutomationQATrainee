@@ -1,0 +1,35 @@
+{
+    "test_case_alert": {
+        "button": "Alert",
+        "message_from_alert": ["You clicked a button", "Do you confirm action?",
+            "Please enter your name"],
+        "message_from_page_near_button": "You selected Ok",
+        "main_page_locator": "Alerts, Frame & Windows"
+    },
+    "test_case_nested_frames": {
+        "button": ["Nested Frames", "Frames"],
+        "nested_frames": ["Parent frame", "Child Iframe"],
+        "frames": "This is a sample page"
+    },
+    "test_case_tables": {
+        "main_page_locator": "Elements",
+        "button": "Web Tables"
+    },
+    "test_case_handles": {
+        "button": ["Browser Windows", "Links"],
+        "sample_url": "https://demoqa.com/sample",
+        "text_from_sample_page": "This is a sample page"
+    },
+    "test_case_slider_progress": {
+        "main_page_locator": "Widgets",
+        "button": ["Slider", "Progress Bar"],
+        "age_engineer": "26",
+        "percent": "0.02"
+    },
+    "test_case_date_picker": {
+        "button": "Date Picker",
+        "month": ["February","02"],
+        "date": "29",
+        "year": "2024"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "click_script": "arguments[0].click();",
+    "scroll_to_element": "arguments[0].scrollIntoView();"
+}
