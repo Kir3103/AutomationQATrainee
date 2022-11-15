@@ -1,1 +1,1 @@
-# AutomationQATrainee
+# Branch with API tests of Jsonplaceholder Website in JavaScript
