@@ -1,1 +1,1 @@
-# AutomationQATrainee
+# Branch with UI, API tests of VK in JavaScript
