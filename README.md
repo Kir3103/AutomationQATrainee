@@ -1,1 +1,1 @@
-# AutomationQATrainee
+# Branch with UI tests of Userinterfaces Website in JavaScript
