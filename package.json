@@ -1,0 +1,31 @@
+{
+  "name": "k.strunets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.4",
+    "async-exit-hook": "^2.0.1",
+    "chai": "^4.3.6",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1qa-education-L2/k.strunets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1qa-education-L2/k.strunets/issues"
+  },
+  "homepage": "https://github.com/a1qa-education-L2/k.strunets#readme",
+  "type": "module"
+}

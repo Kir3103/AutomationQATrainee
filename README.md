@@ -1,1 +1,1 @@
-# AutomationQATrainee
+# Branch with request to DB in JavaScript
