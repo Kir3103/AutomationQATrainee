@@ -1,0 +1,6 @@
+{
+    "url": "https://jsonplaceholder.typicode.com",
+    "default_timeout": 20,
+    "browser_factory": ["chrome", "firefox"],
+    "headerJson": {"Content-Type": "application/json"}
+}
